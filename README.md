@@ -1,5 +1,5 @@
 - 👋 Hi, I’m José Matos.
-- .. I'm an Senior Application Enginner
+- .. I'm an Senior Frontend Enginner
 - 📫 You can reach me at developer@josematos.work
 
 <!---
