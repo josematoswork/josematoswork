@@ -1,0 +1,19 @@
+name: Latest Medium post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest Medium posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          # Your RSS feed url
+          feed_list: "https://medium.com/feed/@angular_developer_josematos"
+          # Maximum number of posts you want
+          max_post_count: 10
