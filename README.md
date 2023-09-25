@@ -26,7 +26,7 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-streak-stats.josematos.work?user=josematos.work)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats.josematos.work?user=josematos.work&theme=dark&border_radius=8)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josematoswork&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
